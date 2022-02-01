@@ -15,7 +15,7 @@ I risultati possono essere ordinati cliccando sull'intestazione delle colonne.
 ## Download
 Il programma può essere scaricato qui:
 
-[![Download](https://github.com/MarcusMclan/storage/blob/main/buttons/download_S.png)](https://github.com/MarcusMclan/radio-contest-manager/archive/refs/tags/v0.1.zip)
+[![Download](https://github.com/MarcusMclan/storage/blob/main/buttons/download_S.png)](https://github.com/MarcusMclan/radio-contest-manager/archive/refs/tags/v1.0.zip)
 
 ## Support
 Potete supportare il progetto qui: [![Download](https://github.com/MarcusMclan/storage/blob/main/buttons/donate.png)](https://www.paypal.com/donate/?business=UFSZ3KAGRC7ZY&no_recurring=0&currency_code=EUR)
