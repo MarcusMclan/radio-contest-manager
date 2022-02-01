@@ -1,3 +1,6 @@
+[![Eng](https://github.com/MarcusMclan/storage/blob/main/buttons/Eng.png)](https://github.com/MarcusMclan/radio-contest-manager/blob/main/README.md)
+[![Ita](https://github.com/MarcusMclan/storage/blob/main/buttons/Ita.png)](https://github.com/MarcusMclan/radio-contest-manager/blob/main/README_ita.md)
+
 # Radio contest manager
 A tool to analyze radio contest files. Currently supports EDI file type.<br/>
 To analyze the contest data prepare all EDI files inside a folder, then open the program and click on the "load files" button and select the folder.<br/>
